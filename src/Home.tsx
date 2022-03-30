@@ -303,7 +303,7 @@ const Home = (props: HomeProps) => {
             borderRadius: 6,
           }}
         >
-          <img src="/token.gif"/>
+          <img style={{paddingLeft: "25px"}} src="/token.gif"/>
           {!wallet.connected ? (
             <ConnectButton>Connect Wallet</ConnectButton>
           ) : (
