@@ -306,7 +306,7 @@ const Home = (props: HomeProps) => {
           <img style={{paddingLeft: "25px"}} src="/token.gif"/>
 
           
-          This mint is anti-bot protected by <b>Civic Ignite Pass</b>. In case you get no captcha popup after pressing MINT or you are unable to proceed click <a href="https://getpass.civic.com/">HERE</> to visit Civic Portal 
+          This mint is anti-bot protected by <b>Civic Ignite Pass</b>. In case you get no captcha popup after pressing MINT or you are unable to proceed click <a href="https://getpass.civic.com/">HERE</a> to visit Civic Portal 
           to verify your wallet for free.
 
 
