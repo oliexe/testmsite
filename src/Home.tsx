@@ -303,9 +303,9 @@ const Home = (props: HomeProps) => {
             borderRadius: 6,
           }}
         >
-          <img style={{width: "300px"}} src="https://i.ibb.co/s2WLnXt/header.png"/>
+          <img style={{width: "400px"}} src="https://i.ibb.co/s2WLnXt/header.png"/>
 
-          <div style={{paddingBottom: "15px"}}>
+          <div style={{paddingBottom: "15px", paddingTop: "15px" }}>
           Suminagashi ( 墨 流 し) by Maison Bennu is a collection of 333 handmade traditional Japanese style paper marble prints done on watercolor paper. The collection is one of the first of its kind on Solana in that all of the prints are physically backed NFTs. These are tangible pieces of art, 1 of 1 creations. Our collection consists of 300 4”x6” prints and 33 8.5” x 11” pints, that contain a range of 2-7 colors.
           </div>
 
