@@ -303,11 +303,10 @@ const Home = (props: HomeProps) => {
             borderRadius: 6,
           }}
         >
-          <img style={{paddingLeft: "25px"}} src="/token.gif"/>
+          <img style={{width: "300px"}} src="https://i.ibb.co/s2WLnXt/header.png"/>
 
           <div style={{paddingBottom: "15px"}}>
-          This mint is anti-bot protected by <b>Civic Ignite Pass</b>. In case you get no captcha popup after pressing MINT or you are unable to proceed click <a href="https://getpass.civic.com/">HERE</a> to visit Civic Portal 
-          to verify your wallet for free.
+          Suminagashi ( 墨 流 し) by Maison Bennu is a collection of 333 handmade traditional Japanese style paper marble prints done on watercolor paper. The collection is one of the first of its kind on Solana in that all of the prints are physically backed NFTs. These are tangible pieces of art, 1 of 1 creations. Our collection consists of 300 4”x6” prints and 33 8.5” x 11” pints, that contain a range of 2-7 colors.
           </div>
 
 
